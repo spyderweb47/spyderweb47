@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spyderweb47
 - 👀 I’m interested in Cyber Security and Python Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Bug Bounty Projevts and Inovative Ideas
 - 📫 Connect me on twitter:- @tanujbaware
 
